@@ -1,0 +1,16 @@
+*****************************************************************************************
+To Execute UI
+
+	=> SuperHeroWebApp\UI\index.html
+
+
+To Execute API
+
+	=> SuperHeroWebApp\API Executable Output\SuperHeroCPPAPI.exe
+
+
+To View the Source Code of API
+
+	=> SuperHeroWebApp\API\SuperHeroCPPAPI.cpp
+
+********************************************************************************************

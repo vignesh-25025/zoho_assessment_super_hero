@@ -1,0 +1,27 @@
+****************************************************************************************
+Application Name
+
+	=> Super Hero Web Application
+
+
+Front-End Languages
+
+	=> HTML, CSS, JS
+
+
+Back-End Language
+
+	=> C++
+
+
+Used Libraries in Back-End
+
+	=> Mongoose - (For Handle Request from UI)
+	=> Curl	- (For Send Request to SuperHero API (www.superheroapi.com))
+
+
+Back-End Tool
+
+	=> Microsoft Visual Studio 2015
+
+****************************************************************************************
